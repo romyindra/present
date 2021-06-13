@@ -1,4 +1,4 @@
-
+/*
 var colors = new Array(
   [62,35,255],
   [60,255,60],
@@ -59,3 +59,4 @@ var color2 = "rgb("+r2+","+g2+","+b2+")";
 }
 
 setInterval(updateGradient,10);
+*/
